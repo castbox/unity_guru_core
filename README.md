@@ -9,11 +9,20 @@
 - [unity_template](https://github.com/castbox/unity_template#readme)
 
 </br>
+
+
+---
 </br>
 </br>
 
 ## 最新版本:
-- 1.5.0
+- [1.5.0](https://raw.githubusercontent.com/castbox/unity_guru_core/main/guru_core_1.5.0.unitypackage)
+
+
+
+## 历史版本:
+
+- [1.5.0](https://raw.githubusercontent.com/castbox/unity_guru_core/main/guru_core_1.5.0.unitypackage)
 
 
 

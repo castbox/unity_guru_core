@@ -1,14 +1,14 @@
 {
   "latest" : {
     "version": "1.5.0",
-    "stamp": 1671011457536,
-    "url": ""
+    "stamp": 1671479432844,
+    "url": "https://raw.githubusercontent.com/castbox/unity_guru_core/main/guru_core_1.5.0.unitypackage"
   },
   "packages": [
     {
       "version": "1.5.0",
-      "stamp": 1671011457536,
-      "url": ""
+      "stamp": 1671479432844,
+      "url": "https://raw.githubusercontent.com/castbox/unity_guru_core/main/guru_core_1.5.0.unitypackage"
     },
     {
       "version": "1.4.0",
