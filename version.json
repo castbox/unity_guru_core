@@ -1,0 +1,24 @@
+{
+  "latest" : {
+    "version": "1.5.0",
+    "stamp": 1671011457536,
+    "url": ""
+  },
+  "packages": [
+    {
+      "version": "1.5.0",
+      "stamp": 1671011457536,
+      "url": ""
+    },
+    {
+      "version": "1.4.0",
+      "stamp": 1640166657000,
+      "url": "https://github.com/castbox/unity_template/releases/download/V1.4/V1.4.unitypackage"
+    },
+    {
+      "version": "1.3.0",
+      "stamp": 1640080257000,
+      "url": "https://github.com/castbox/unity_template/releases/download/V1.3/V1.3.unitypackage"
+    }
+  ]
+}
