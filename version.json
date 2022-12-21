@@ -1,23 +1,23 @@
 {
-  "lastUpdateStamp": 1671540381643,
-  "list": [
-      {
-          "version": "1.5.0",
-          "url": "https://raw.githubusercontent.com/castbox/unity_guru_core/main/guru_core_1.5.0.unitypackage",
-          "stamp": 1671479432844,
-          "info": "- 添加了内核加载机制\n- 添加了GuruConsent\n- 清理无用的组件"
-      },
-      {
-          "version": "1.4.0",
-          "url": "https://github.com/castbox/unity_template/releases/download/V1.4/V1.4.unitypackage",
-          "stamp": 1640166657000,
-          "info": "- 老版本, 仅做版本标记.\n- 不能进行内核更新"
-      },
-      {
-          "version": "1.3.0",
-          "url": "https://github.com/castbox/unity_template/releases/download/V1.3/V1.3.unitypackage",
-          "stamp": 1640080257000,
-          "info": "- 老版本, 仅做版本标记.\n- 不能进行内核更新"
-      }
-  ]
+    "lastUpdateStamp": 1671621670571,
+    "list": [
+        {
+            "version": "1.5.0",
+            "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_1.5.0.unitypackage",
+            "stamp": 1671621670571,
+            "info": "添加了内核加载机制, 更新了repo地址\n添加了GuruConsent\n清理无用的组件"
+        },
+        {
+            "version": "1.4.0",
+            "url": "https://github.com/castbox/unity_template/releases/download/V1.4/V1.4.unitypackage",
+            "stamp": 1640166657000,
+            "info": "- 老版本, 仅做版本标记.\n- 不能进行内核更新"
+        },
+        {
+            "version": "1.3.0",
+            "url": "https://github.com/castbox/unity_template/releases/download/V1.3/V1.3.unitypackage",
+            "stamp": 1640080257000,
+            "info": "- 老版本, 仅做版本标记.\n- 不能进行内核更新"
+        }
+    ]
 }
