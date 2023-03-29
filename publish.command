@@ -1,5 +1,7 @@
 #!/bin/bash
 
+CORE_TAG=1.6.0
+
 DIR=$(cd $(dirname $0);pwd)
 cd ${DIR}
 echo "DIR: ${DIR}"
