@@ -1,12 +1,6 @@
 {
-    "lastUpdateStamp": 1680199364346,
+    "lastUpdateStamp": 1671621670571,
     "list": [
-        {
-            "version": "1.6.0",
-            "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_1.6.0.unitypackage",
-            "stamp": 1680199364346,
-            "info": "整理了整体的文件层级结构\n添加 GuruAnalytics, GuruBuildTool, 标准属性类..."
-        },
         {
             "version": "1.5.0",
             "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_1.5.0.unitypackage",
