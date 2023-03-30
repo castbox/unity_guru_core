@@ -1,7 +1,11 @@
 #!/bin/bash
 
+
 DIR=$(cd $(dirname $0);pwd)
 cd ${DIR}
+
+source .version_tag
+
 echo "DIR: ${DIR}"
 echo "TAG: ${CORE_TAG}"
 
