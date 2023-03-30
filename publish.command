@@ -1,14 +1,15 @@
 #!/bin/bash
 
-
+# Change the dir
 DIR=$(cd $(dirname $0);pwd)
 cd ${DIR}
 
-source .version_tag
-
+# Read the tag info
+source ./version_tag
 echo "DIR: ${DIR}"
 echo "TAG: ${CORE_TAG}"
 
+# git commit all changes
 git status
 git add .
 git commit -m "publish core version to ${CORE_TAG}"
