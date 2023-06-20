@@ -1,6 +1,12 @@
 {
-    "lastUpdateStamp": 1680715513181,
+    "lastUpdateStamp": 1687261170280,
     "list": [
+        {
+            "version": "1.8.0",
+            "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_1.8.0.unitypackage",
+            "stamp": 1687261170280,
+            "info": "更新 Adjust 事件 iap_purchase 的上报逻辑\n更新 太极001, 太极002 的上报格式\n修复 因反射导致的库丢失的问题"
+        },
         {
             "version": "1.6.1",
             "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_1.6.1.unitypackage",
