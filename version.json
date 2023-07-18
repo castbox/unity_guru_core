@@ -1,6 +1,12 @@
 {
-    "lastUpdateStamp": 1687261170280,
+    "lastUpdateStamp": 1689709675661,
     "list": [
+        {
+            "version": "1.9.0",
+            "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_1.9.0.unitypackage",
+            "stamp": 1689709675661,
+            "info": "修复了广告打点 load_rads 和 load_idas 缺失的问题\n升级了自打点库 And: 2.0.5 iOS: 2.0.12"
+        },
         {
             "version": "1.8.0",
             "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_1.8.0.unitypackage",
