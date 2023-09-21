@@ -1,11 +1,11 @@
 {
-    "lastUpdateStamp": 1691853872213,
+    "lastUpdateStamp": 1695303540047,
     "list": [
         {
-            "version": "1.9.2",
-            "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_1.9.2.unitypackage",
-            "stamp": 1691853872213,
-            "info": "修复自打点BUG\n关闭FB事件自动上报\n完善打点信息"
+            "version": "1.9.5",
+            "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_1.9.5.unitypackage",
+            "stamp": 1695303540047,
+            "info": "添加L10N多语言翻译工具\n修复自打点BUG, 添加上限值保护\n添加ATT打点接口"
         },
         {
             "version": "1.9.1",
