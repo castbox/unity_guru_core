@@ -1,12 +1,6 @@
 {
-    "lastUpdateStamp": 1695751008274,
+    "lastUpdateStamp": 1695303540047,
     "list": [
-        {
-            "version": "2.0.0",
-            "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_2.0.0.unitypackage",
-            "stamp": 1695751008274,
-            "info": "IAP插件适配了 4.9.4 版本\n更新自打点Android原生库, 修复了fg引起的时长问题"
-        },
         {
             "version": "1.9.5",
             "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_1.9.5.unitypackage",
