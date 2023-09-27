@@ -1,6 +1,12 @@
 {
-    "lastUpdateStamp": 1695751442574,
+    "lastUpdateStamp": 1695814875562,
     "list": [
+        {
+            "version": "2.0.1",
+            "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_2.0.1.unitypackage",
+            "stamp": 1695814875562,
+            "info": "更新了自打点 IOS 版本库 (0.2.16)\n删除了 L10N 中无用的文件和扩展\n更新了README 和 CHENGELOG 文档"
+        },
         {
             "version": "2.0.0",
             "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_2.0.0.unitypackage",
