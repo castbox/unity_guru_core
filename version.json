@@ -1,6 +1,12 @@
 {
-    "lastUpdateStamp": 1695814875562,
+    "lastUpdateStamp": 1700501726039,
     "list": [
+        {
+            "version": "2.0.2",
+            "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_2.0.2.unitypackage",
+            "stamp": 1700501726039,
+            "info": "修复IOS订单重复上报的问题\n更新L10n接口, 修复部分BUG\n广告上报信息添加waterfall数据"
+        },
         {
             "version": "2.0.1",
             "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_2.0.1.unitypackage",
