@@ -1,6 +1,12 @@
 {
-    "lastUpdateStamp": 1700501726039,
+    "lastUpdateStamp": 1702554587951,
     "list": [
+        {
+            "version": "2.0.3",
+            "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_2.0.3.unitypackage",
+            "stamp": 1702554587951,
+            "info": "更新 Firebase 10.1.1\n更新 MAX广告插件库\n更新 deps 依赖上报工具"
+        },
         {
             "version": "2.0.2",
             "url": "https://raw.githubusercontent.com/castbox/unity_gurucore/main/gurucore_2.0.2.unitypackage",
